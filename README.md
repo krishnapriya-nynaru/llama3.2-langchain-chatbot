@@ -27,13 +27,21 @@ Get started today and create your personalized conversational AI! 🌟
 ```bash
 git clone https://github.com/krishnapriya-nynaru/llama3.2-langchain-chatbot
 ```
-- 
  ## Install Dependencies
  1. pip install langchain
  2. pip install -U langchain-ollama
  3. pip install streamlit
 
- ## Contributing
+## Run the chatbot
+Launch the chatbot interface using Streamlit:
+```bash
+streamlit run app.py
+```
+Open your browser and navigate to: http://localhost:8501
+
+Start interacting with your chatbot! 🎉
+
+## Contributing
 Contributions are welcome! To contribute to this project:
 
 1. Fork the repository.
@@ -42,3 +50,9 @@ Contributions are welcome! To contribute to this project:
 4. Submit a pull request with a detailed description of your changes.
 
 If you have any suggestions for improvements or features, feel free to open an issue!
+
+## Acknowledgments
+- [**llama3.2**](https://www.llama.com/)
+- [**Ollama**](https://ollama.com/)
+- [**Langchain**](https://python.langchain.com/docs/introduction/)
+- [**ollama LLM**](https://python.langchain.com/docs/integrations/llms/ollama/)
