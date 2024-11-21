@@ -12,6 +12,10 @@ Whether you're building an assistant, answering FAQs, or just exploring the pote
 
 Get started today and create your personalized conversational AI! 🌟
 
+Here’s a quick look at the chatbot interface:  
+
+![Chatbot Interface](https://github.com/krishnapriya-nynaru/llama3.2-langchain-chatbot/blob/main/assets/ss.png)  
+
  ## Setup
  - [**Download**](https://ollama.com/) and install Ollama onto the available supported platforms (including Windows Subsystem for Linux)
  - Once Ollama is installed, download the Llama 3.2 model:
